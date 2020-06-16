@@ -1,2 +1,0 @@
-# tabela
-Created with CodeSandbox
